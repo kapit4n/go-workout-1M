@@ -17,14 +17,14 @@ def countLines(path):
 
 
 total = 0
-fReadme.write("##Categories")
+fReadme.write("## Categories")
 for f in os.listdir('./src-ig'):
     pathFull = "./src-ig/" + f
-    fReadme.write("\n##" + str(f).upper() + "\n")
+    fReadme.write("\n## " + str(f).upper() + "\n")
     if (os.path.isdir(pathFull)):
         total = total + countLines(pathFull)
 
 print(total)
 
 
-fReadme.write("\n#Total python code \n" + str(total))
+fReadme.write("\n# Total python code \n" + str(total))
