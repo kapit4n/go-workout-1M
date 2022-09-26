@@ -27,4 +27,4 @@ for f in os.listdir('./src-ig'):
 print(total)
 
 
-fReadme.write("\n# Total python code \n" + str(total))
+fReadme.write("\n# Total \n" + str(total))

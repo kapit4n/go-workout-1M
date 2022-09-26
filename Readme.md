@@ -19,6 +19,9 @@ algoo.go(7), S(7)
 ## TESTS
 hello-world-test.go(27), unit-test2.go(97), unit-test.go(35), S(159)
 
+## CASES
+barcode.go(36), S(36)
+
 ## LIBRARIES
 S(0)
 
@@ -36,5 +39,5 @@ simple-channel.go(202), simple.go(27), S(229)
 ## QUESTIONS
 first.go(295), S(295)
 
-# Total python code 
-6136
+# Total 
+6172
