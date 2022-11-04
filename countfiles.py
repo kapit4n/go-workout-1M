@@ -24,6 +24,12 @@ for f in os.listdir('./src-ig'):
     if (os.path.isdir(pathFull)):
         total = total + countLines(pathFull)
 
+for f in os.listdir('./src'):
+    pathFull = "./src/" + f
+    fReadme.write("\n## " + str(f).upper() + "\n")
+    if (os.path.isdir(pathFull)):
+        total = total + countLines(pathFull)
+
 print(total)
 
 

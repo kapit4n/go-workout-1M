@@ -41,5 +41,11 @@ simple-channel.go(202), simple.go(27), S(229)
 ## QUESTIONS
 first.go(295), S(295)
 
+## SOCKETS
+11-05-2022.go(0), S(0)
+
+## PUB-SUB
+11-05-2022.go(56), S(56)
+
 # Total 
-6563
+6619
