@@ -29,6 +29,9 @@ S(0)
 
 ## GO.SUM
 
+## PUB-SUB
+11-05-2022.go(100), S(100)
+
 ## STRUCTS
 solid.go(166), value_receiver.go(27), go_composotion.go(48), inheritance.go(125), S(366)
 
@@ -48,4 +51,4 @@ first.go(295), S(295)
 11-05-2022.go(56), S(56)
 
 # Total 
-6619
+6719
