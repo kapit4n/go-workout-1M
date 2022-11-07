@@ -22,7 +22,7 @@ algoo.go(7), S(7)
 hello-world-test.go(27), unit-test2.go(97), unit-test.go(35), S(159)
 
 ## WEB3
-11-07-2022.go(111), S(111)
+11-07-2022.go(181), S(181)
 
 ## CASES
 barcode-09-26-2022.go(36), radio-09-27-2022.go(164), S(200)
@@ -54,4 +54,4 @@ first.go(295), S(295)
 11-05-2022.go(56), S(56)
 
 # Total 
-6830
+6900
