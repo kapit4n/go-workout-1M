@@ -41,6 +41,9 @@ solid.go(166), value_receiver.go(27), go_composotion.go(48), inheritance.go(125)
 ## CLEANCODE
 arch.go(270), S(270)
 
+## REST-API
+api-11-14-2022.go(113), S(113)
+
 ## GO-ROUTINES
 simple-channel.go(202), simple.go(27), S(229)
 
@@ -54,4 +57,4 @@ first.go(295), S(295)
 11-05-2022.go(56), S(56)
 
 # Total 
-7004
+7117
